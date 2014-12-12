@@ -25,6 +25,6 @@
 
 2. run it to get centrality measures and save network to file ( it might take 20 minutes )
 
-3. run `map_load_draw` file to generate the network graph
+3. run `map_load_draw.py` file to generate the network graph
 
 PS: `find_popular_authors.py` is simply counting the degrees
