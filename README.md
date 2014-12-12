@@ -1,6 +1,9 @@
 
 # Science Surveyor
 
+This is a experiment based on Science Surveyor Project, see more information at [this](http://science-surveyor.github.io/) site.
+
+
 ## Introduction
 
 It is very important to make the public better understand scientific research. Science journalists is the bridge between the two groups, but there is a problem in contextualization of journal articles in time. Science journalists have limitations that it is nearly impossible to achieve both the thorough understanding of field and the timeliness of the news report, as there are so much to read and research, including the past researches, whether a certain finding is significant and how a finding stands in the fields’ consensus.
