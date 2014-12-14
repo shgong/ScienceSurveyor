@@ -16,7 +16,7 @@ v_name = g.new_vertex_property("string")
 N = 10000  # generate map with first N line data
 count = 0
 d = {}  # dictionary storing name and nodes
-fname = "author2009.txt" #filename
+fname = "author2008.txt" #filename
 
 
 # open file
@@ -26,7 +26,7 @@ with open(fname) as f:
 N0=len(content)
 print "Total Citations:", N0
 print "Creating vertexes and edges"
-N=N0
+#N=N0
 
 # ----------------------------------------------------------------------
 
