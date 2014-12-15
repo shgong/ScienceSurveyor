@@ -77,7 +77,8 @@ PS: `find_popular_authors.py` is simply counting the degrees
 
 # Case Analysis
 
-![alt text](http://raw.githubusercontent.com/shgong/ScienceSurveyor/master/table.png)
+
+![alt text](https://raw.githubusercontent.com/shgong/ScienceSurveyor/master/table.png "Logo Title Text 1")
 
 We applied both measurements to our network to see how it works with different types of nodes. For example, we choose one of the most cited author, Michael John Collins in AAN to see how the measure works. Both his betweenness centrality and page rank stayed in the first year, but dropped in the second year. We tried to compare it with a less famous author Susan E. Brennan, and find some interesting phenomenon which would help us improve the citation centrality measurement.
 
